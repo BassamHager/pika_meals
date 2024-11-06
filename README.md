@@ -3,9 +3,12 @@
 
 
 ## Demo
-![Main Page](public/demo/mainPage.png)
+[Please visit the app](https://86f888a6.pikameals.pages.dev/)
+<br/>
 
-![Main Page](public/demo/recipes.png)
+[![Main Page](public/demo/mainPage.png)](https://86f888a6.pikameals.pages.dev/)
+
+[![Main Page](public/demo/recipes.png)](https://86f888a6.pikameals.pages.dev/)
 <br/>
 <br/>
 <br/>
@@ -26,6 +29,7 @@
 - Provide & Inject
 - Error handling
 - Spinner (loader)
+- Deployment to cloudflare-pages
 <hr/>
 <br/>
 

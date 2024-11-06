@@ -31,4 +31,9 @@ export default defineNuxtConfig({
   pinia: {
     storesDirs: ["./stores/**"],
   },
+
+  // deployment to cloudflare pages
+  nitro: {
+    preset: "cloudflare-pages",
+  },
 });
